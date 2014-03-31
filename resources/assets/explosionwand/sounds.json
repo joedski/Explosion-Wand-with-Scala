@@ -1,0 +1,8 @@
+{
+	"explosionwand.throw": {
+		"category": "neutral",
+		"sounds": [
+			"smb2_throw"
+		]
+	}
+}
